@@ -1,0 +1,5 @@
+\{$for i1a2$}{$for i 1 2$}@sin{$for i 1 2$}{$END$}{$END$}
+	
+	@sin{$=i$}{$for i 1 2$}?!._{$END$}?!.
+		{$for i 1 2$}@sin{$for i 1 2$}{$for i 1 2$}
+		{$END$}{$END$}{$END$}

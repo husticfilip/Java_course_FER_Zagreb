@@ -1,0 +1,9 @@
+{$for i 1 2 3$}
+   tko igra za {$= raju $} i.
+   {$for i "štef" 007  $} 
+   zanemaruje{$for j 1 12.00005 a$}@taktiku{$End$}
+   @zavrist{$=echo$}ce"Karijeru" \{$ u nizerazrednom}{$for vratniku i a 2$}
+     {$= echo hej$}
+ 		{$eND$}
+   {$END$}
+{$END$}

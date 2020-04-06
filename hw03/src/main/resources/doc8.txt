@@ -1,0 +1,6 @@
+Ovo je samo sa  jedan tekst.
+
+kroz puno redaka
+
+sa escapeom \{$for i1abc 2 3 4 $} i dalje.
+i drugim escapom \\. 

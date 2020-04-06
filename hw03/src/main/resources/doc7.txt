@@ -1,0 +1,15 @@
+{$for i 1 2 3$}{$=i$}{$for i 1 2$}
+zavrsava prva
+{$END$}
+{$for i 1 2$}
+   {$=p$}zavrsava druga{$End$}
+   {$for i 1  2$}
+   treca
+   {$END$}{$= @fun@fun@fun$}
+   cetvrta
+   {$END$}
+   {$for i 1 2$}
+{$END$}
+peta
+
+

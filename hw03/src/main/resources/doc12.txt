@@ -1,0 +1,13 @@
+{$for i 1 2$}{$END$}
+{$for i 1 2$}{$END$}@sin{$=i$}@sin
+
+@sin{$for i 1 2$}@sin 
+	?!._{$for i 1 2$}?!._ ? !._{$=i$}?!._
+	{$END$} {$END$}
+
+	
+\{$for i1a2$}{$for i 1 2$}\{$for i1a2$}\{$for i1a2$}{$=i$}\{$for i1a2$} 
+  	{$END$}
+
+{$for i 1 2$}{$=i$}{$=i$}{$for i 1 2$}
+	{$END$}{$END$}

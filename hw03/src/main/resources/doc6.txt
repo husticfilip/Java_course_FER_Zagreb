@@ -1,0 +1,7 @@
+{$for a-0.000000var"str"$}{$for i 1 var 2$}
+{$for i 1 var 2$}}{{$for i 1 var 2$}@fun@fun{$for i 1 var 2$}
+
+
+{$END$}{$END$}{$END$}{$END$}{$END$}
+
+{$= @fun@fun@fun$}

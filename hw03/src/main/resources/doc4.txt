@@ -1,0 +1,14 @@
+{$for i 1 2 3$}
+	tekstic
+	{$=i$}
+	{$for i var var var$}
+		{$for i "str" "123" $}
+		  {$= echo $}
+		  for{$FOR j 12.2 -0.01 -21$}
+		  	tekstic2
+		  	for{$for i "string"-12a_vb $}
+{$end$}
+	{$end$}	  	  
+ 		 {$end$}
+ 		   {$end$}
+ 			 {$end$}
